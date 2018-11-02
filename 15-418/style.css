@@ -1,0 +1,19 @@
+/*body{
+width:960px;
+margin:0;
+}*/
+
+/*html, body {background: #666666; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #222; background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0, #404040), color-stop(0.2, #7A7A7A));}*/
+
+/*div{
+	background:#ffffff;
+  	margin:20 auto;
+}*/
+
+body {
+    margin-top: 20;
+    margin-bottom: 20px;
+    margin-right: 256px;
+    margin-left: 100px;
+    /*width: 960px;*/
+}
